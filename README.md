@@ -1,6 +1,6 @@
 # Inventory-Management-Admin-Dashboard-Template
 
-
+ANEEK SINGHA 57(22022002016008) SAYANTAN GHOSH 67(22022002016019)
 
 ## Getting started
 
